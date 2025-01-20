@@ -15,6 +15,8 @@
           
           <category> default </category>
           
+          <category> ctf-wp </category>
+          
       </categories>
       
       
@@ -23,6 +25,8 @@
             <tag> linux </tag>
             
             <tag> default </tag>
+            
+            <tag> 2025湘岚杯wp </tag>
             
         </tags>
       
