@@ -4,23 +4,15 @@
   
     
     <entry>
-      <title>hello word</title>
+      <title>hello world</title>
       <link href="/2025/01/20/hello%20word/"/>
       <url>/2025/01/20/hello%20word/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="hello-word"><a href="#hello-word" class="headerlink" title="hello word"></a>hello word</h1>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="hello-world"><a href="#hello-world" class="headerlink" title="hello world"></a>hello world</h1>]]></content>
       
-      
-      <categories>
-          
-          <category> default </category>
-          
-      </categories>
       
       
         <tags>
-            
-            <tag> default </tag>
             
             <tag> linux </tag>
             
